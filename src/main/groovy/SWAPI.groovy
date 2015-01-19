@@ -3,6 +3,7 @@ import models.*
 
 /**
  * A non thread safe Stars Wars API for http://swapi.co
+ * Star Wars and all associated names are copyright Lucasfilm ltd.
  *
  * Created by toddecus on 1/11/15.
  *

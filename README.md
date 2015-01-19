@@ -1,6 +1,7 @@
 # SWAPI-GROOVY
 A Groovy Client for the StarWars API at http://swapi.co
 Written by Todd Ellermann (toddecus)
+Star Wars and all associated names are copyright Lucasfilm ltd.
 
 
 
